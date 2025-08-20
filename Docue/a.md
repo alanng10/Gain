@@ -53,3 +53,5 @@ Gain has park mark.
 Gain has park cross.
 
 Gain has major.
+
+Gain has major on sera.
