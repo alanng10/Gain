@@ -57,3 +57,13 @@ Gain has major.
 Gain has major on sera.
 
 Gain has major on live.
+
+Gain has range.
+
+Gain range is base on Gain.
+
+gain range from null to park.
+
+Gain range from null to Park.
+
+GAIN range from null to PARK.
