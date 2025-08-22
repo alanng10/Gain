@@ -68,7 +68,7 @@ GAIN has range.
 
 gain range is base on gain.
 
-Gain range is base on Gain.
+Gain range is base on Gain. 
 
 GAIN range is based on GAIN.
 
