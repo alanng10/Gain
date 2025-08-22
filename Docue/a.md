@@ -58,11 +58,15 @@ Gain has major on sera.
 
 Gain has major on live.
 
+GAIN is all gain included.
+
 Gain has range.
+
+gain range is base on gain.
 
 Gain range is base on Gain.
 
-GAIN is all gain included.
+GAIN range is based on GAIN.
 
 gain range from null to park.
 
