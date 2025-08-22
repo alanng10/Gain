@@ -60,7 +60,11 @@ Gain has major on live.
 
 GAIN is all gain included.
 
+gain has range.
+
 Gain has range.
+
+GAIN has range.
 
 gain range is base on gain.
 
