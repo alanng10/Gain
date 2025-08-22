@@ -62,6 +62,8 @@ Gain has range.
 
 Gain range is base on Gain.
 
+GAIN is all gain included.
+
 gain range from null to park.
 
 Gain range from null to Park.
