@@ -70,7 +70,7 @@ gain range is base on gain.
 
 Gain range is base on Gain.
 
-GAIN range is based on GAIN.
+GAIN range is base on GAIN.
 
 gain range from null to park.
 
