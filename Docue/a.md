@@ -74,6 +74,6 @@ GAIN range is based on GAIN.
 
 gain range from null to park.
 
-Gain range from null to Park. 
+Gain range from null to Park.
 
 GAIN range from null to PARK.
