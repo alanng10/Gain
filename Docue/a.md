@@ -58,6 +58,8 @@ Gain has major on sera.
 
 Gain has major on live.
 
+Gain is human done basis.
+
 GAIN is all gain included.
 
 gain has range.
