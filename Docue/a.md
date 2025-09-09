@@ -60,6 +60,8 @@ Gain has major on live.
 
 Gain is human done basis.
 
+Geno is done.
+
 GAIN is all gain included.
 
 gain has range.
