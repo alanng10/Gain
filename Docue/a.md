@@ -90,5 +90,5 @@ Gain word has spell.
 The spell is:
 "G" for Good Site.
 "a" for all park.
-"i" for inter apply.
+"i" for info cive.
 "n" for never live.
