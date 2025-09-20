@@ -85,3 +85,10 @@ gain site is good feel.
 Gain Site is Good Feel.
 
 GAIN SITE is GOOD FEEL.
+
+Gain word has spell.
+The spell is:
+"G" for Good Site.
+"a" for all park.
+"i" for inter apply.
+"n" for never live.
